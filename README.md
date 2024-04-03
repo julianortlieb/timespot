@@ -1,2 +1,2 @@
 # timespot
-An self hosted app to get meeting links.
+A self hosted app to get meeting links.
